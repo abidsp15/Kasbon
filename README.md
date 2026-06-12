@@ -59,7 +59,7 @@ Buka browser di **[http://localhost:3000](http://localhost:3000)**.
 ---
 
 ## 🔗 Link Demo (Vercel)
-Link deploy aplikasi: **[https://kasbon-tracker.vercel.app](https://kasbon-tracker.vercel.app)** *(bisa di-update setelah dideploy)*
+Link deploy aplikasi: **[https://kasbon-zeta.vercel.app/](https://kasbon-zeta.vercel.app/)**
 
 ## 💡 Keputusan Teknis yang Saya Banggakan
 Saya bangga dengan fitur **Group by Person** dan **Visual Bar Chart**-nya. Datanya diolah di sisi klien biar transisi dari daftar biasa ke grup terasa instan tanpa delay. Bar chart-nya juga dibuat murni pakai CSS Tailwind v4 tanpa library luar biar aplikasi tetap ringan saat dibuka di HP.
